@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{1C2D00C9-1EAF-8F8C-0C37-3A9936D44446}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/1Main/ButtonManager_1Main.cs">
+    <Files>
+      <File FileName="Assets/Scripts/DontDestory/AudioManager.cs" Line="40" Column="27" />
+      <File FileName="Assets/Scripts/DontDestory/GameStateManager.cs" Line="15" Column="1" />
+      <File FileName="Assets/Scripts/1Main/ButtonManager_1Main.cs" Line="78" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Pongy_220Pong PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
